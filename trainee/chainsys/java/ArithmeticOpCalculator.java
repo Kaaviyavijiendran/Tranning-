@@ -2,7 +2,7 @@ package trainee.chainsys.java;
 
 import java.util.Scanner;
 
-public class Calculator {
+public class ArithmeticOpCalculator {
 
 	public static void main (String args[]) {
 		
