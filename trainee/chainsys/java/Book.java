@@ -11,6 +11,7 @@ public class Book {
 		double bookPrice;
 		char language;
 		boolean available;
+		
 	}
 
 }
