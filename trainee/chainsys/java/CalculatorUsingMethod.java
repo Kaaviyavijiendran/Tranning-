@@ -9,7 +9,7 @@ public class CalculatorUsingMethod {
 		subraction();
 		multiplication();
 		
-		
+	
 		
 	}
 
