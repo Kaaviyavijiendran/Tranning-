@@ -30,6 +30,7 @@ public class TwoMaxNum {
 		 min=arr[i];
 		 
 		}
+		
 		  
 		//Printing Result
 		System.out.println("\n Maximum Number: "+max);
